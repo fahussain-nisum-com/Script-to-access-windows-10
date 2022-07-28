@@ -48,5 +48,7 @@ iii. Run script
 bash script.sh
 ```
 You will see results of command ran via ssh bash file.
+
+---------------------------------------------------------------------
 <img width="525" alt="Screenshot 2022-07-28 at 3 48 19 PM" src="https://user-images.githubusercontent.com/105775522/181491853-5bf7ae8c-2124-4d34-aed3-f40678b64f7b.png">
 
